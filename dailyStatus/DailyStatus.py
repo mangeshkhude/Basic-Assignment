@@ -2,6 +2,8 @@ from validateAndWriteCSV import WriteToCSV
 from dailyStatus import InputsFromUser
 from mailReporting import MailReport
 
+"""This is the first file to run app"""
+
 class DailyStatus():
 
     def dailyStatus(self):
